@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Op-Vision17
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on app dev projects
-- 👀 I’m interested in watching webseies
+- 👀 I’m interested in watching webseries
 
 
 <!---
